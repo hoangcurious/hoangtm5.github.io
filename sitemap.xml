@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+<loc>https://dendomdom.com</loc>
+      <loc>https://dendomdom.com/index.html</loc>
+	   <loc>https://dendomdom.com/product.html</loc>
+	    <loc>https://dendomdom.com/gallery.html</loc>
+		 <loc>https://dendomdom.com/contact.html</loc>
+		 <loc>http://dendomdom.com</loc>
+		 <loc>http://dendomdom.com/index.html</loc>
+	   <loc>http://dendomdom.com/product.html</loc>
+	    <loc>http://dendomdom.com/gallery.html</loc>
+		 <loc>http://dendomdom.com/contact.html</loc>
+
+      <lastmod>2018-09-18</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+</urlset>
